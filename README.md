@@ -8,7 +8,7 @@
 |  ----  | ----  | ----  |
 | [click me](https://www.zhihu.com/people/MogooStudio)  | [click me](https://blog.csdn.net/nmjkl001) | [click me](https://www.jianshu.com/u/9547c81ca54e) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MogooStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MogooStudio&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MogooStudio)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MogooStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
