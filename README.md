@@ -1,27 +1,14 @@
 ### Hi there, I'm MogooStudio  👋
-- 🔭 I’m currently working on game development
-- 📫 How to reach me: mogoostuio@outlook.com   
+- 目前正在从事游戏开发，正在向游戏开发深处进阶
+- 同时我也拥抱开源，加强学习，掌握更多的编程语言，比如：C、C++、C#、Lua、Python
+- 你可以通过 mogoostuio@outlook.com 联系我
 
 ### You can follow me through the following channels.
 |  知乎   | CSDN  | 简书 |
 |  ----  | ----  | ----  |
 | [click me](https://www.zhihu.com/people/MogooStudio)  | [click me](https://blog.csdn.net/nmjkl001) | [click me](https://www.jianshu.com/u/9547c81ca54e) |
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MogooStudio&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MogooStudio&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MogooStudio)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!--
-**MogooStudio/MogooStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
