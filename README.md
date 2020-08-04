@@ -1,7 +1,7 @@
 ### Hi there, I'm MogooStudio  👋
-- 目前正在从事游戏开发，正在向游戏开发深处进阶
-- 同时拥抱开源，加强学习，掌握更多的编程语言，比如：C、C++、C#、Lua、Python
-- 你可以通过 mogoostuio@outlook.com 联系我
+- 目前从事游戏开发，正在向游戏开发深处进阶
+- 拥抱开源，加强学习，掌握更多的编程语言，比如：C、C++、C#、Lua、Python
+- 可以通过 mogoostuio@outlook.com 联系我
 
 ### You can follow me through the following channels.
 |  知乎   | CSDN  | 简书 |
