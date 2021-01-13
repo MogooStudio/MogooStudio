@@ -1,10 +1,8 @@
 ### Hi there, I'm MogooStudio  👋
-- 目前从事游戏开发，正在向开发深处进阶
-- 拥抱开源，掌握多种编程语言，比如：C、C++、C#、Lua、Python
-- 可以通过 mogoostuio@outlook.com 联系我
+- I am a game developer, willing to share and embrace open source
 
 ### You can follow me through the following channels.
-|  知乎   | CSDN  | 简书 |
+|  zhihu   | CSDN  | 简书 |
 |  ----  | ----  | ----  |
 | [click me](https://www.zhihu.com/people/MogooStudio)  | [click me](https://blog.csdn.net/nmjkl001) | [click me](https://www.jianshu.com/u/9547c81ca54e) |
 
