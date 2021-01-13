@@ -1,5 +1,5 @@
 ### Hi there, I'm MogooStudio  👋
-- I am a game developer, willing to share and embrace open source
+- A game developer, willing to share and embrace open source
 
 - You can follow me through the following channels. 
 
