@@ -1,9 +1,10 @@
 ### Hi there, I'm MogooStudio  👋
 - I am a game developer, willing to share and embrace open source
 
-### You can follow me through the following channels.
-|  zhihu   | CSDN  | 简书 |
-|  ----  | ----  | ----  |
+- You can follow me through the following channels. 
+
+| zhihu | CSDN  | 简书 |  
+| ----- | ----  | ----|  
 | [click me](https://www.zhihu.com/people/MogooStudio)  | [click me](https://blog.csdn.net/nmjkl001) | [click me](https://www.jianshu.com/u/9547c81ca54e) |
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MogooStudio&show_icons=true&theme=radical)
